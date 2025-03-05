@@ -1,0 +1,23 @@
+{
+  "name": "curriculum",
+  "version": "1.0.0",
+  "description": "Curriculum vitæ",
+  "scripts": {
+    "lint": "eslint",
+    "fix": "eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clement-gouin/curriculum.git"
+  },
+  "author": "clement-gouin",
+  "license": "ISC",
+  "homepage": "https://clement-gouin.github.io/curriculum",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "eslint-config-prettier": "^10.0.2",
+    "eslint-plugin-vue": "^9.32.0",
+    "globals": "^16.0.0"
+  }
+}
