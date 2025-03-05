@@ -119,6 +119,7 @@ const TECHNOLOGIES = [
       { name: "Apache/Httpd", domain: "httpd.apache.org" },
       { name: "Bash", domain: "www.gnu.org" },
       { name: "Vagrant", domain: "www.vagrantup.com" },
+      { name: "OpenMetrics", domain: "openmetrics.io" },
     ],
   },
   {
@@ -143,8 +144,9 @@ const TECHNOLOGIES = [
     brands: [
       { name: "PostgreSQL", domain: "www.postgresql.org" },
       { name: "Redis", domain: "redis.io" },
-      { name: "MySQL", domain: "www.mysql.com" },
       { name: "RabbitMQ", domain: "www.rabbitmq.com" },
+      { name: "JSON:API", domain: "jsonapi.org" },
+      { name: "MySQL", domain: "www.mysql.com" },
     ],
   },
   {
