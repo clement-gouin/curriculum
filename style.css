@@ -149,6 +149,10 @@ APP STYLE
 ================================================= 
 */
 
+body {
+  font-size: 0.9rem;
+}
+
 h1 small,
 h2 small,
 h3 small,
@@ -238,5 +242,10 @@ a:hover {
     --text-primary: hsl(var(--hue-primary), var(--sat-primary), 10%);
     --text-secondary: hsl(var(--hue-primary), var(--sat-primary), 20%);
     --text-tertiary: hsl(var(--hue-primary), var(--sat-primary), 30%);
+  }
+
+  main {
+    max-width: none;
+    padding: 0;
   }
 }

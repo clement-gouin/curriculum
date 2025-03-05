@@ -152,7 +152,7 @@ const TECHNOLOGIES = [
       { name: "Tailwind", domain: "tailwindcss.com" },
       { name: "Bootstrap", domain: "getbootstrap.com" },
       { name: "React", domain: "react.dev" },
-      { name: "Javascript", icon: "fa-brands fa-js" },
+      { name: "Typescript", domain: "typescriptlang.org" },
       { name: "CSS", icon: "fa-brands fa-css3" },
       { name: "HMTL", icon: "fa-brands fa-html5" },
     ],
