@@ -120,6 +120,7 @@ const TECHNOLOGIES = [
       { name: "Bash", domain: "www.gnu.org" },
       { name: "Vagrant", domain: "www.vagrantup.com" },
       { name: "OpenMetrics", domain: "openmetrics.io" },
+      { name: "Grafana", domain: "grafana.com" },
     ],
   },
   {
