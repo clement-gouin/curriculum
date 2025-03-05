@@ -3,6 +3,7 @@ import { createApp } from "vue";
 /* eslint-disable camelcase */
 const TEXTS = {
   fr: {
+    contact: "Me Contacter",
     education: "Formation",
     technologies: "Technologies",
     title: "Ingénieur informatique",
@@ -10,6 +11,7 @@ const TEXTS = {
     years: "ans",
   },
   en: {
+    contact: "Contact me",
     education: "Education",
     technologies: "Technologies",
     title: "IT engineer",
@@ -101,21 +103,22 @@ const TECHNOLOGIES = [
     icon: "fas fa-server",
     name: "Operations",
     brands: [
-      { name: "Jenkins", domain: "www.jenkins.io" },
-      { name: "Groovy", domain: "groovy-lang.org" },
-      { name: "GitLab", domain: "about.gitlab.com" },
-      { name: "GitLab CI", domain: "about.gitlab.com" },
       { name: "Docker", domain: "www.docker.com" },
       { name: "Docker Compose", domain: "www.docker.com" },
-      { name: "Ansible", domain: "docs.ansible.com" },
+      { name: "GitLab", domain: "about.gitlab.com" },
+      { name: "GitLab CI", domain: "about.gitlab.com" },
       { name: "GitHub", domain: "github.com" },
       { name: "GitHub Actions", domain: "github.com" },
+      { name: "Ansible", domain: "docs.ansible.com" },
+      { name: "Jenkins", domain: "www.jenkins.io" },
+      { name: "Groovy", domain: "groovy-lang.org" },
       { name: "Git", domain: "git-scm.com" },
       { name: "Debian", domain: "debian.org" },
       { name: "Linux", domain: "www.linux.org" },
       { name: "Nginx", domain: "nginx.org" },
       { name: "Apache/Httpd", domain: "httpd.apache.org" },
       { name: "Bash", domain: "www.gnu.org" },
+      { name: "Vagrant", domain: "www.vagrantup.com" },
     ],
   },
   {

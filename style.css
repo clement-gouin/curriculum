@@ -248,4 +248,12 @@ a:hover {
     max-width: none;
     padding: 0;
   }
+
+  li {
+    margin-bottom: 0.5em;
+  }
+
+  li:last-child {
+    margin-bottom: inherit;
+  }
 }
