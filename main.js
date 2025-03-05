@@ -5,6 +5,7 @@ const TEXTS = {
   fr: {
     contact: "Me Contacter",
     education: "Formation",
+    updated: "Voir le CV à jour: ",
     technologies: "Technologies",
     title: "Ingénieur informatique",
     work_experience: "Expérience",
@@ -13,6 +14,7 @@ const TEXTS = {
   en: {
     contact: "Contact me",
     education: "Education",
+    updated: "View updated version at ",
     technologies: "Technologies",
     title: "IT engineer",
     work_experience: "Work experience",

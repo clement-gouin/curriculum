@@ -233,6 +233,10 @@ a:hover {
   vertical-align: middle;
 }
 
+.show-print {
+  display: none;
+}
+
 @media print {
   :root {
     --background: white;
@@ -255,5 +259,9 @@ a:hover {
 
   li:last-child {
     margin-bottom: inherit;
+  }
+
+  .show-print {
+    display: inherit !important;
   }
 }
