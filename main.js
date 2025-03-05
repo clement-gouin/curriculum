@@ -134,8 +134,7 @@ const TECHNOLOGIES = [
       { name: "ASP.NET", domain: "dotnet.microsoft.com" },
       { name: "Java", domain: "www.java.com" },
       { name: "NPM", domain: "www.npmjs.com" },
-      { name: "Gradle", domain: "gradle.org" },
-      { name: "Maven", domain: "maven.apache.org" },
+      { name: "PhantomJS", domain: "phantomjs.org" },
     ],
   },
   {
