@@ -148,7 +148,7 @@ const TECHNOLOGIES = [
       { name: "Redis", domain: "redis.io" },
       { name: "JSON:API", domain: "jsonapi.org" },
       { name: "Pandas", domain: "pandas.pydata.org" },
-      { name: "Excel", domain: "excel.cloud.microsoft" },
+      { name: "Excel", icon: "fas fa-table" },
       { name: "RabbitMQ", domain: "www.rabbitmq.com" },
       { name: "MySQL", domain: "www.mysql.com" },
     ],
